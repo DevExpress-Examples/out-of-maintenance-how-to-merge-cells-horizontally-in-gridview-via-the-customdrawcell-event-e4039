@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HorizontalMerging/Form1.cs)
+* [MyGridViewHandler.cs](./CS/HorizontalMerging/MyGridViewHandler.cs)
+<!-- default file list end -->
 # How to merge cells horizontally in GridView via the CustomDrawCell event
 
 
