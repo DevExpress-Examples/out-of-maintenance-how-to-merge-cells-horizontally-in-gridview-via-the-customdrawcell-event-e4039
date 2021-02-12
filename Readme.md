@@ -12,6 +12,10 @@
 The mentioned functionality is implemented via the <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawCell">GridView.CustomDrawCell</a> event handling.</p><p>In addition, this example illustrates how to implement merged text scrolling.</p><br />
 
 
+<b>See also:</b>
+
+[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
+
 <br/>
 
 
